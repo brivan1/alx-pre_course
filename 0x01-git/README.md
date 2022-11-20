@@ -1,1 +1,2 @@
-this is my second attempt in GIT
+This README has been updated
+This README is has a new update!
